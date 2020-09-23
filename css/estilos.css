@@ -1,3 +1,21 @@
 * {
-    margin: 0px
+    border: 0px;
+    padding: 0px;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 50px;
+    color: orange;
+    text-align: center;
+}
+
+.contenido {
+    background-color: beige;
+}
+
+.font_comando {
+    font-size: medium;
+    color: blue;
+    text-align: start;
 }
